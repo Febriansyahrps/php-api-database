@@ -16,7 +16,7 @@
         </p>
         <p>
             <label for="password">Password: </label>
-            <textarea name="password"></textarea>
+            <input type="password" name="password"></textarea>
         </p>
         <p>
             <label for="level">Level: </label>
@@ -28,7 +28,7 @@
         </p>
         <p>
             <label for="fullname">Fullname: </label>
-            <textarea name="fullname"></textarea>
+            <input type="fullname" name="fullname"></textarea>
         </p>
         <br/>
         
